@@ -1,0 +1,14 @@
+E:\proiecte_PERSONALE\visualStudio\EntityCrud\EntityCrud\bin\Debug\EntityCrud.exe.config
+E:\proiecte_PERSONALE\visualStudio\EntityCrud\EntityCrud\bin\Debug\EntityCrud.exe
+E:\proiecte_PERSONALE\visualStudio\EntityCrud\EntityCrud\bin\Debug\EntityCrud.pdb
+E:\proiecte_PERSONALE\visualStudio\EntityCrud\EntityCrud\bin\Debug\EntityFramework.dll
+E:\proiecte_PERSONALE\visualStudio\EntityCrud\EntityCrud\bin\Debug\EntityFramework.SqlServer.dll
+E:\proiecte_PERSONALE\visualStudio\EntityCrud\EntityCrud\bin\Debug\EntityFramework.xml
+E:\proiecte_PERSONALE\visualStudio\EntityCrud\EntityCrud\bin\Debug\EntityFramework.SqlServer.xml
+E:\proiecte_PERSONALE\visualStudio\EntityCrud\EntityCrud\obj\Debug\EntityCrud.csprojResolveAssemblyReference.cache
+E:\proiecte_PERSONALE\visualStudio\EntityCrud\EntityCrud\obj\Debug\EntityCrud.Form1.resources
+E:\proiecte_PERSONALE\visualStudio\EntityCrud\EntityCrud\obj\Debug\EntityCrud.Properties.Resources.resources
+E:\proiecte_PERSONALE\visualStudio\EntityCrud\EntityCrud\obj\Debug\EntityCrud.csproj.GenerateResource.Cache
+E:\proiecte_PERSONALE\visualStudio\EntityCrud\EntityCrud\obj\Debug\EntityCrud.csproj.CoreCompileInputs.cache
+E:\proiecte_PERSONALE\visualStudio\EntityCrud\EntityCrud\obj\Debug\EntityCrud.exe
+E:\proiecte_PERSONALE\visualStudio\EntityCrud\EntityCrud\obj\Debug\EntityCrud.pdb
